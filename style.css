@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+h1 {
+  margin-bottom: 2rem;
+}
+button {
+  margin-top: 2rem;
+}
+#output {
+  font-size: larger;
+}
